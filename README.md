@@ -47,6 +47,10 @@ All text fields are combined and processed using:
 - 5-fold cross-validation
 - RMSE used as the evaluation metric
 
+## Data
+The dataset is provided by the competition and is not included in this repository.
+To run the code, place `train.csv` and `test.csv` inside a `data/` directory.
+
 ## How to Run
 
 1. Install dependencies:
